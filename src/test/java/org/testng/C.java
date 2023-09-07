@@ -19,5 +19,9 @@ public class C {
 	 private void tc27() {
 			System.out.println("test case 27");
 		}
+	 @Test(groups= {"sanity","smoke"})
+	 private void tc28() {
+			System.out.println("test case 27");
+		}
 
 }
