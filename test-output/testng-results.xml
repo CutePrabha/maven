@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="12" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2023-07-04T09:54:11Z" finished-at="2023-07-04T09:54:11Z">
+    <groups>
+      <group name="somke">
+        <method signature="Testtt.tc1()[pri:0, instance:org.testng.Testtt@5cb9f472]" name="tc1" class="org.testng.Testtt"/>
+        <method signature="Testtt.tc5()[pri:0, instance:org.testng.Testtt@5cb9f472]" name="tc5" class="org.testng.Testtt"/>
+      </group> <!-- somke -->
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2023-07-04T09:54:11Z" finished-at="2023-07-04T09:54:11Z">
+      <class name="org.testng.Testtt">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.Testtt@5cb9f472]" name="tc1" duration-ms="16" started-at="2023-07-04T09:54:11Z" finished-at="2023-07-04T09:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.testng.Testtt@5cb9f472]" name="tc5" duration-ms="0" started-at="2023-07-04T09:54:11Z" finished-at="2023-07-04T09:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- org.testng.Testtt -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
